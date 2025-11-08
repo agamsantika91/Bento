@@ -87,7 +87,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Whatsapp Web',
-			icon: 'whatsapp',
+			icon: 'https://fontawesome.com/icons/whatsapp?f=brands&s=solid',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
