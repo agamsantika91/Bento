@@ -53,7 +53,7 @@ const CONFIG = {
 	hourDarkThemeInactive: '07:00',
 
   	// Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
-  	changeThemeByLocation: false,
+  	changeThemeByLocation: true,
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
