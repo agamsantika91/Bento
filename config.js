@@ -18,7 +18,7 @@ const CONFIG = {
   title: 'Bento',
 
 	// Theme
-	theme: 'latte-mocha',
+	theme: 'conceptdark',
 	imageBackground: false,
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
