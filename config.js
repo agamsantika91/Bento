@@ -12,13 +12,13 @@ const CONFIG = {
 
   
 	// General
-	name: 'Gam Rawk',
+	name: 'Agaaam',
 	openInNewTab: true,
 	twelveHourFormat: false,
   title: 'Bento',
 
 	// Theme
-	theme: 'conceptdark',
+	theme: 'latte-mocha',
 	imageBackground: false,
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
@@ -33,7 +33,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '258779383d5b64db5ad21f784131e1e0', // Write here your API Key
-	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
