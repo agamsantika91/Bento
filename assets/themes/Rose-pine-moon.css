@@ -2,13 +2,13 @@
 
   /* Light Colors  */
 
-  --background: #faf4ed; /* Background color */
+  --background: #fffaf3; /* Background color */
   --accent: #b4637a; /* Hover color */
-  --cards: #fffaf3; /* Cards color */
+  --cards: #f2e9e1; /* Cards color */
 
   /* Fonts Color */
   --fg: #575279; /* Foreground color */
-  --sfg: #56949f; /* Sceondary Foreground color */
+  --sfg: #e0def4; /* Sceondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
