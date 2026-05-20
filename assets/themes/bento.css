@@ -2,7 +2,7 @@
 
   /* Light Colors  */
 
-  --background: #b3b9b8; /* Background color */
+  --background: #fbf1c7; /* Background color */
   --accent: #8ccf7e; /* Hover color */
   --cards: #dadada; /* Cards color */
 
@@ -25,7 +25,7 @@
   --cards: #3c3836; /* Cards color */
 
   /* Fonts Color */
-  --fg: #ebdbb2 /* Foreground color */
+  --fg: #ebdbb2; /* Foreground color */
   --sfg: #fbf1c7; /* Secondary Foreground color */
 
   /* Image background  */
