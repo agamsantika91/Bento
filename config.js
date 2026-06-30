@@ -63,7 +63,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'computer',
 			link: 'https://github.com/agamsantika91',
 		},
 		{
@@ -75,7 +75,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
+			icon: 'clipboard-pen',
 			link: 'https://todoist.com',
 		},
 		{
@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://odysee.com/',
 		},
 	],
